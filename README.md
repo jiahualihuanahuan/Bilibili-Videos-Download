@@ -4,6 +4,8 @@ For more detail, vist below link
 
 https://pypi.org/project/bilili/
 
+This tutorial assume that you are running Windows 10 and have installed Anaconda or miniconda
+
 ## Run below commands in Anaconda Prompt
 
 conda create -n bilibili python=3.8 (bilili can run on python version equal or newer than 3.8.0)
