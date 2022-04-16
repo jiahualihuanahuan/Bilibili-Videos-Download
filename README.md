@@ -1,13 +1,25 @@
 # Bilibili-Videos-Download
 
-conda create -n bilibili python=3.8
+For more detail, vist below link
+
+https://pypi.org/project/bilili/
+
+## Run below commands in Anaconda Prompt
+
+conda create -n bilibili python=3.8 (bilili can run on python version equal or newer than 3.8.0)
 
 conda activate bilibili
 
 pip install bilili
 
-pip install spyder
+## Make sure you have ffmpeg.exe in the bilibili environment under Scripts folder
 
+Download ffmpeg for windows from https://ffmpeg.org/download.html
 
+unzip the file and locate ffmpeg.exe in the bin folder
 
-bilili <https://www.bilibili.com/video/BV1iY4y1e7pM?p=9&spm_id_from=pageDriver>
+move ffmpeg.exe file to C:\Users\USER_NAME\anaconda3\envs\bilibili\Scripts
+
+## Run below commands in Anaconda Prompt
+
+bilili https://www.bilibili.com/video/BV1iY4y1e7pM
