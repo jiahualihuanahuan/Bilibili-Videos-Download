@@ -14,7 +14,11 @@ pip install bilili
 
 ## Make sure you have ffmpeg.exe in the bilibili environment under Scripts folder
 
-Download ffmpeg for windows from https://ffmpeg.org/download.html
+Download ffmpeg for windows from 
+
+https://ffmpeg.org/download.html
+
+https://www.gyan.dev/ffmpeg/builds/
 
 unzip the file and locate ffmpeg.exe in the bin folder
 
