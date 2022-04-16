@@ -29,3 +29,5 @@ move ffmpeg.exe file to C:\Users\USER_NAME\anaconda3\envs\bilibili\Scripts
 ## Run below commands in Anaconda Prompt
 
 bilili https://www.bilibili.com/video/BV1iY4y1e7pM
+
+bilili https://www.bilibili.com/bangumi/play/ep321808
